@@ -1,8 +1,8 @@
 // Life Pro Tip: NEVER ask a woman her age.
 //                     
-//                    ***
+//       -------------***
 // -----------------*******
-//                    ***
+//       -------------***
 //   The more you know
 
 let rlSync = require('readline-sync');
