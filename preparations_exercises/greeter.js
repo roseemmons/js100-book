@@ -1,4 +1,4 @@
-const firstName = 'Victor';
-console.log(`Good Morning, ${firstName}.`);
-console.log(`Good Afternoon, ${firstName}.`);
-console.log(`Good Evening, ${firstName}.`);
+let rlSync = require('readline-sync');
+let fName = rlSync.question('What\'s your first name?\n');
+let lName = rlSync.question('Yeah? What\'s your last name?\n');
+console.log(`Sup, ${fName} ${lName}.`);
