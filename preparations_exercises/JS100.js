@@ -140,7 +140,7 @@ contains('Paris');
 
 
 let groceryList = ['paprika', 'tofu', 'garlic', 'quinoa', 'carrots', 'broccoli', 'hummus'];
-while (groceryList.length > 0;) {
+while (groceryList.length > 0) {
   let result = groceryList.shift();
   console.log(result);
 }
